@@ -1,0 +1,11 @@
+NAME OF PROJECT=LIBRARY MANAGEMNT SYSTEM
+
+NAME=MENKA RAGHUNATH BHAPKAR
+MIS ID=141503002
+
+
+DESCRIPTION:
+This is a project of library management
+In this project i have created some functions like addaccount(),deleteaccount() for creating an account,deleting an account etc.
+In this project i have used file handling.
+All operations done through files.
